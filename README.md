@@ -1,7 +1,15 @@
-# cs151-fall-2025
+# Project 1: TBA
 CS 151 | Fall 2025 | Telvin Zhong
 
-#### Developers
+## Overview
+
+## Design
+
+## Installation instructions
+
+## Usage
+
+## Contributions
 * Dee Aein
 * Marl Jonson
 * Miyuki Tokuhara
